@@ -45,6 +45,3 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="xyba's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=xyba1337&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 </div>
-
-------
-Readme Credit: [1999azzar](https://github.com/1999azzar)
