@@ -8,5 +8,5 @@ I am a Full Stack Developer at [Rscripts](https://rscripts.net/).
 ---
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=xyba1337&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats-sigma-five.herokuapp.com?user=xyba1337&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=xyba1337&theme=dark&hide_border=true" width = 400>
 </p>
