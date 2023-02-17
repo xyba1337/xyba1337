@@ -1,7 +1,8 @@
 <a style="color: blue" href="https://twitter.com/xyba1337" target="_blank" rel="nofollow"><img align="right" alt="xybas's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 ## Hi 👋 I am xyba! 
-I am a Full Stack Developer at [Rscripts](https://rscripts.net/). 
+I am a Full Stack Web Developer located in Germany.
+In love with the MEN (MySQL, NGINX, Next.js)  Stack 🤍
 
 - 🌐 Visit my [porfolio website](https://xyba.dev/) for complete background and contact.
 
