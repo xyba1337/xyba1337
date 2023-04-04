@@ -2,7 +2,6 @@
 
 ## Hi 👋 I am xyba! 
 I am a Full Stack Web Developer located in Germany.<br>
-In love with the MEN (MySQL, NGINX, Next.js)  Stack 🤍
 
 - 🌐 Visit my [porfolio website](https://xyba.dev/) for complete background and contact.
 
