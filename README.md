@@ -1,5 +1,7 @@
 99% of my repos are private
 
+Founder and creator of: [Rscripts](https://rscripts.net/), [Rscripts](https://speechmeme.com/)
+
 <a style="color: blue" href="https://twitter.com/xyba1337" target="_blank" rel="nofollow"><img align="right" alt="xybas's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
 ---
